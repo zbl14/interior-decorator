@@ -1,19 +1,7 @@
-.column1 {
+.column {
   width: 300px;
   float: left;
-  background-color: azure;
-}
-
-.column2 {
-  width: 300px;
-  float: left;
-  background-color: blue;
-}
-
-.column3 {
-  width: 300px;
-  float: left;
-  background-color: red;
+  background-color: rosybrown;
 }
 
 h2.imporatant{
