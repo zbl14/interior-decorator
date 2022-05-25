@@ -1,9 +1,33 @@
-.column {
-  width: 300px;
-  float: left;
-  background-color: rosybrown;
-}
-
 h2.important{
   color: brown;
+}
+
+.column1 {
+  width: 300px;
+  float: left;
+  background-color: red;
+  margin: 12px;
+  border: 2px solid red;
+  padding: 4px;
+  box-sizing: border-box;
+}
+
+.column2 {
+  width: 300px;
+  float: left;
+  background-color: green;
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  box-sizing: border-box;
+}
+
+.columne {
+  width: 300px;
+  float: left;
+  background-color: blue;
+  margin: 12px;
+  border: 2px solid blue;
+  padding: 4px;
+  box-sizing: border-box;
 }
