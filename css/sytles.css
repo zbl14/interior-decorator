@@ -31,3 +31,9 @@ h2.important{
   padding: 4px;
   box-sizing: border-box;
 }
+
+.centered-image {
+  margin:auto;
+  width: 70%;
+  display: block;
+}
