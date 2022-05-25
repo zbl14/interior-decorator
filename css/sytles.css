@@ -1,7 +1,8 @@
-.column {
-  width: 300px;
-  float: left;
-  background-color: rosybrown;
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: lightcyan;
+  color: darkolivegreen;
 }
 
 h2.important{
