@@ -22,5 +22,6 @@ This HTML website demonstrates a great example of how Interior Decorator Design 
 * None
 
 ## License 
+MIT
 
 Copy right &copy; 2020 Zhibin Liang and Caroline Cerussi
