@@ -3,30 +3,30 @@ h2.important{
 }
 
 .column1 {
-  width: 300px;
+  width: 30%;
   float: left;
-  background-color: red;
-  margin: 12px;
+  background-color:lightpink;
+  margin: 20px;
   border: 2px solid red;
   padding: 4px;
   box-sizing: border-box;
 }
 
 .column2 {
-  width: 300px;
+  width: 30%;
   float: left;
-  background-color: green;
-  margin: 12px;
+  background-color: lightgreen;
+  margin: 20px;
   border: 2px solid green;
   padding: 4px;
   box-sizing: border-box;
 }
 
 .column3 {
-  width: 300px;
+  width: 30%;
   float: left;
-  background-color: blue;
-  margin: 12px;
+  background-color: skyblue;
+  margin: 20px;
   border: 2px solid blue;
   padding: 4px;
   box-sizing: border-box;
@@ -36,4 +36,8 @@ h2.important{
   margin:auto;
   width: 70%;
   display: block;
+}
+
+.body{
+  background-image: url(https://cf.ltkcdn.net/interiordesign/images/orig/223948-2000x1500-Home-decoration-and-design.jpg)
 }
